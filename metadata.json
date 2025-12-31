@@ -1,0 +1,8 @@
+{
+  "name": "O LOGOS - Gestão de Estoque",
+  "description": "Sistema de inteligência logística com foco em design de luxo, controle de SKU e gestão visual avançada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
